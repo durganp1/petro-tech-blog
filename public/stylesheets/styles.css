@@ -1,0 +1,57 @@
+* {
+    box-sizing: border-box;
+    background-color: lightblue;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+nav {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.login-form {
+    margin: 20px;
+}
+
+.signup-form {
+    margin: 20px;
+}
+
+div {
+    margin: 5px;
+}
+
+input, textarea {
+    border-radius: 25px;
+}
+
+a {
+    font-style: italic;
+}
+
+.comment {
+    margin: 20px 0;
+}
+
+footer {
+    margin-top: 50px;
+    font-size: 125%;
+}
+
+.post {
+    margin-bottom: 12px;
+}
+
+.title {
+    font-weight: bold;
+}
+
+button {
+    border-radius: 15px;
+    margin: 0px 20px;
+}
